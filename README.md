@@ -1,4 +1,4 @@
-**Hi, I'm Rakshitha 👋**
+# **Hi, I'm Rakshitha 👋**
 
 Embedded Systems Enthusiast | B.E. Electronics & Communication Engineering Graduate
 
