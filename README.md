@@ -1,21 +1,59 @@
-# 💫 About Me:
-I’m an Electronics & Communication Engineering graduate passionate about Embedded Systems and Electronics.<br>I work with Embedded C, Arduino, ESP32, STM32, sensors, and communication modules.<br>I enjoy hands-on projects and solving real-world problems. Currently seeking an opportunity as an Embedded Systems Engineer.
+Hi, I'm Ganyashree H D 👋
+Embedded Systems Enthusiast | B.E. Electronics & Communication Engineering Graduate
+I'm an Electronics & Communication Engineering graduate passionate about Embedded Systems, microcontroller programming and building hardware that solves real-world problems.
 
+👩‍💻 About Me
+🎓 B.E. in Electronics and Communication Engineering (2026), Brindavan College of Engineering
+🔌 Interested in Embedded Systems and IoT
+💻 Writing firmware in C, Embedded C and C++
+📟 Working with ESP32, Arduino and STM32 microcontrollers
+🔗 Interfacing sensors and modules over UART, SPI and I2C
+💼 Completed internships at BEL Naval Systems and VisionAstraa EV Academy
+🚀 Continuously building projects to strengthen my hardware and firmware skills
+🛠️ Technical Skills
+💻 Programming
+C
+Embedded C
+C++
+Python
+🔌 Microcontrollers
+ESP32
+Arduino
+STM32
+📡 Communication Protocols
+UART
+SPI
+I2C
+🖥️ Operating Systems
+Linux
+📌 Featured Projects
+🔐 BioLock: Biometric Bike Security with Engine Lock and Tire Immobilizer
+An ESP32-based security system that starts a vehicle only after fingerprint verification. Unauthorized attempts keep the engine locked, sound a buzzer, and alert the owner by SMS and phone call through a GSM module. A relay immobilizer and servo lock secure the engine, and Blynk IoT enables remote monitoring.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshitha_mahadev__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rakshitha-949a37269/) 
+Technologies: ESP32 • Embedded C • Fingerprint Sensor • SIM900 GSM • Servo • Relay • I2C LCD • Blynk IoT
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rakshithamahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rakshithamahadev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rakshithamahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔗 View Project
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakshithamahadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🦯 Smart Stick for Blind People
+A mini project built to help visually impaired users detect obstacles and move more safely.
 
----
-[![](https://komarev.com/ghpvc/?username=Rakshithamahadev&icon=0&color=0)](https://visitcount.itsvg.in)
+Technologies: Ultrasonic Sensor • IR Sensor • ESP32
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💼 Internship Experience
+BEL Naval Systems (S&CS Division) | Jul–Aug 2025
+Exposure to sonar and naval communication systems
+VisionAstraa EV Academy | Feb–May 2026
+EV embedded systems, circuit design, hardware testing and BMS
+🎯 Career Focus
+I am looking for an entry-level opportunity in:
+
+Embedded Systems
+Firmware Development
+IoT
+Microcontroller Programming
+I want to build reliable embedded products and keep improving my hardware and software skills.
+
+🤝 Connect With Me
+📌 LinkedIn: linkedin.com/in/ganyashreehd
+📌 GitHub: @ganyashree-27
+⭐ Feel free to explore my repositories and projects!
