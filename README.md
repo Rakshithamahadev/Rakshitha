@@ -1,4 +1,5 @@
-Hi, I'm Rakshitha 👋
+**Hi, I'm Rakshitha 👋**
+
 Embedded Systems Enthusiast | B.E. Electronics & Communication Engineering Graduate
 
 I'm an Electronics & Communication Engineering graduate passionate about Embedded Systems, firmware development and building hardware that solves real-world problems.
